@@ -2,9 +2,25 @@
     "playlist": {
         "track": [
             {
-                "creator": "Radiohead",
-                "title": "Let Down"
-            },
+                "info": "http://www.rdio.com/artist/Radiohead/album/The_Best_Of/", 
+                "album": "The Best Of", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2353032"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDd8tck"
+                ], 
+                "title": "Let Down", 
+                "duration": 299, 
+                "image": "http://cdn3.rd.io/album/7/e/a/000000000002fae7/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Radiohead/album/The_Best_Of/track/Let_Down/"
+                ], 
+                "creator": "Radiohead", 
+                "trackNum": 21
+            }, 
             {
                 "info": "http://www.rdio.com/artist/Rick_Astley/album/The_Greatest_Hits/", 
                 "album": "The Greatest Hits", 
@@ -274,8 +290,8 @@
         ], 
         "location": "http://rd.io/x/QVGOBDNX9uU", 
         "title": "Rickroll", 
-        "date": "2012-02-13T06:16:52-00:00", 
-        "image": "http://m.rdio.com/_is/?aid=239544&w=200&h=200", 
+        "date": "2012-02-13T07:24:08-00:00", 
+        "image": "http://m.rdio.com/_is/?aid=239544,195303&w=200&h=200", 
         "creator": "David Gouldin", 
         "annotation": "NEVER GONNA NEVER GONNA NEVER GONNA"
     }
